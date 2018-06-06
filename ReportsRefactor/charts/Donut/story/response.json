@@ -1,0 +1,14 @@
+{
+	"female": {
+		"total": 12747,
+		"percent": 28.55
+	},
+	"male": {
+		"total": 27683,
+		"percent": 62.01
+	},
+	"undetermined": {
+		"total": 4214,
+		"percent": 9.44
+	}
+}
